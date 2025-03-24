@@ -1,4 +1,4 @@
-[![Cardivo Profile Card](https://cardivo.vercel.app/api?name=YourName&description=Full+Stack+Developer&image=https://example.com/avatar.png&backgroundColor=30%2C144%2C255&speed=0.3&socialLinks=twitter%3Dhttps%3A%2F%2Ftwitter.com%2Fhandle%7Cgithub%3Dhttps%3A%2F%2Fgithub.com%2Fhandle&skills=JavaScript%2CReact%2CNode.js%2CPython&animation=spin&fontColor=ffffff)](https://github.com/yourprofile)
+[![Header](https://via.placeholder.com/1920x400.png/2C7873/0A3D62?text=Hi+I'm+oldboylys)]
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm oldboylys
 
 <div align="center">
