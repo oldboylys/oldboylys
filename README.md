@@ -1,4 +1,4 @@
-![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Satya%20Wikananda&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
+[![Cardivo Profile Card](https://cardivo.vercel.app/api?name=YourName&description=Full+Stack+Developer&image=https://example.com/avatar.png&backgroundColor=30%2C144%2C255&speed=0.3&socialLinks=twitter%3Dhttps%3A%2F%2Ftwitter.com%2Fhandle%7Cgithub%3Dhttps%3A%2F%2Fgithub.com%2Fhandle&skills=JavaScript%2CReact%2CNode.js%2CPython&animation=spin&fontColor=ffffff)](https://github.com/yourprofile)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm oldboylys
 
 <div align="center">
