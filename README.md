@@ -14,12 +14,12 @@
 
 ### Personal program 
 
+<h3>svgEditor</h3>
 <a href="https://github.com/oldboylys/svgEditor">
-  <h3>svgEditor</h3>
   <img align="center" src="./public/images/svg.png" />
 </a>
+<h3>web3-wallet-npm</h3>
 <a href="https://github.com/oldboylys/web3-create-wallet">
-  <h3>web3-wallet-npm</h3>
   <img align="center" src="./public/images/wallet.png" />
 </a>
 
