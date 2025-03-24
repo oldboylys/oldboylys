@@ -15,7 +15,10 @@
 ### Personal program 
 
 <a href="https://github.com/oldboylys/svgEditor">
-  <img align="center" src="[https://github.com/oldboylys/svgEditor](https://github.com/oldboylys/svgEditor)" />
+  <img align="center" src="./public/images/svg.png" />
+</a>
+<a href="https://github.com/oldboylys/web3-create-wallet">
+  <img align="center" src="./public/images/wallet.png" />
 </a>
 
 ## 🛠 Tech Stack
