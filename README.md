@@ -1,4 +1,3 @@
-[![Header](https://via.placeholder.com/1920x400.png/2C7873/0A3D62?text=Hi+I'm+oldboylys)]
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm oldboylys
 
 <div align="center">
