@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20aojunhao&fontSize=50&animation=fadeIn&fontAlignY=35)
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm oldboylys
 
 <div align="center">
@@ -17,7 +15,7 @@
 ### Personal program 
 
 <a href="https://github.com/oldboylys/svgEditor">
-  <img align="center" src="https://github.com/oldboylys/svgEditor" />
+  <img align="center" src="[https://github.com/oldboylys/svgEditor](https://github.com/oldboylys/svgEditor)" />
 </a>
 
 ## 🛠 Tech Stack
